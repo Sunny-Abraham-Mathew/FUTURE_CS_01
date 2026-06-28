@@ -39,6 +39,14 @@ To analyze the security posture of the target web application, identify potentia
 * Any activity that could negatively impact the target system
 
 ---
+*Repo Structure*
+FUTURE_CS_01/
+├── README.md
+├── Vulnerability_Assessment_Report_Sunny.pdf
+├── Zap.png
+├── Burpsuite.png
+└── nmap.png
+
 
 # 🛠️ Tools Used
 
