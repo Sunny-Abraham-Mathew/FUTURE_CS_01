@@ -12,6 +12,16 @@ The assessment focused on identifying security weaknesses through passive and no
 To analyze the security posture of the target web application, identify potential vulnerabilities, and document findings along with remediation recommendations.
 
 ---
+## 📁 Repository Structure
+
+```text
+FUTURE_CS_01/
+├── README.md
+├── Vulnerability_Assessment_Report_Sunny.pdf
+├── Zap.png
+├── Burpsuite.png
+└── nmap.png
+```
 
 # 🔍 Scope
 
@@ -39,15 +49,6 @@ To analyze the security posture of the target web application, identify potentia
 * Any activity that could negatively impact the target system
 
 ---
-## 📁 Repository Structure
-
-```text
-FUTURE_CS_01/
-├── README.md
-├── Vulnerability_Assessment_Report_Sunny.pdf
-├── Zap.png
-├── Burpsuite.png
-└── nmap.png
 
 
 # 🛠️ Tools Used
