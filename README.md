@@ -1,7 +1,7 @@
 # FUTURE_CS_01
 # 📋 Project Overview
 
-This repository contains a vulnerability assessment conducted on **http://zero.webappsecurity.com/** as part of a cybersecurity Internship at Future Interns.
+This repository contains a vulnerability assessment conducted on **http://zero.webappsecurity.com/**  for Task 1 at Future Interns Internship.
 
 The assessment focused on identifying security weaknesses through passive and non-intrusive testing techniques using industry-standard security tools. No exploitation attempts, service disruption, or unauthorized access activities were performed during the assessment.
 
